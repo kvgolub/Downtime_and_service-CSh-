@@ -1,0 +1,126 @@
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.AssemblyReference.cache
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfoInputs.cache
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfo.cs
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.CoreCompileInputs.cache
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.exe
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.deps.json
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.runtimeconfig.json
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.dll
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.pdb
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.dll
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\refint\Downtime_and_service.dll
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.pdb
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.genruntimeconfig.cache
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\ref\Downtime_and_service.dll
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
+D:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.ResolveComReference.cache
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.exe
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.deps.json
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.runtimeconfig.json
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.dll
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.pdb
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.AssemblyReference.cache
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.GeneratedMSBuildEditorConfig.editorconfig
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfoInputs.cache
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfo.cs
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.CoreCompileInputs.cache
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.dll
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\refint\Downtime_and_service.dll
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.pdb
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.genruntimeconfig.cache
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\ref\Downtime_and_service.dll
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+H:\WorkScript\Downtime and service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.ResolveComReference.cache
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.AssemblyReference.cache
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.ResolveComReference.cache
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfoInputs.cache
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfo.cs
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.CoreCompileInputs.cache
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\refint\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.pdb
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.exe
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.deps.json
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.runtimeconfig.json
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.pdb
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.genruntimeconfig.cache
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\ref\Downtime_and_service.dll
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.exe
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.deps.json
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.runtimeconfig.json
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.dll
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.pdb
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.AssemblyReference.cache
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.ResolveComReference.cache
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.GeneratedMSBuildEditorConfig.editorconfig
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfoInputs.cache
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfo.cs
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.CoreCompileInputs.cache
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.dll
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\refint\Downtime_and_service.dll
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.pdb
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.genruntimeconfig.cache
+H:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\obj\Debug\net6.0\ref\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.exe
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.deps.json
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.runtimeconfig.json
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.pdb
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.AssemblyReference.cache
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.ResolveComReference.cache
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfoInputs.cache
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfo.cs
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.CoreCompileInputs.cache
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\refint\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.pdb
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.genruntimeconfig.cache
+D:\ScriptWork\Downtime_and_service\Program Csh\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\ref\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.exe
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.deps.json
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.runtimeconfig.json
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.pdb
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.AssemblyReference.cache
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.ResolveComReference.cache
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfoInputs.cache
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfo.cs
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.CoreCompileInputs.cache
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\refint\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.pdb
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.genruntimeconfig.cache
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\obj\Debug\net6.0\ref\Downtime_and_service.dll
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.exe
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.deps.json
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.runtimeconfig.json
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.dll
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\bin\Debug\net6.0\Downtime_and_service.pdb
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.AssemblyReference.cache
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\Interop.Microsoft.Office.Core.dll
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.ResolveComReference.cache
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfoInputs.cache
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.AssemblyInfo.cs
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.csproj.CoreCompileInputs.cache
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.dll
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\refint\Downtime_and_service.dll
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.pdb
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\Downtime_and_service.genruntimeconfig.cache
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\obj\Debug\net6.0\ref\Downtime_and_service.dll
