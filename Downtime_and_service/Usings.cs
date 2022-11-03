@@ -1,0 +1,1 @@
+global using Excel = Microsoft.Office.Interop.Excel;

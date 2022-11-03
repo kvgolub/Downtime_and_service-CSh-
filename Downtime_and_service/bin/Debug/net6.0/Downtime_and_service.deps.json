@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Downtime_and_service/1.0.0": {
+        "dependencies": {
+          "Config": "1.0.0",
+          "Date": "1.0.0",
+          "File": "1.0.0",
+          "Microsoft.Office.Interop.Excel": "15.0.4795.1001",
+          "MicrosoftOfficeCore": "15.0.0"
+        },
+        "runtime": {
+          "Downtime_and_service.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.Excel.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4795.1000"
+          }
+        }
+      },
+      "MicrosoftOfficeCore/15.0.0": {
+        "runtime": {
+          "lib/net35/Office.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4420.1017"
+          }
+        }
+      },
+      "Config/1.0.0": {
+        "runtime": {
+          "Config.dll": {}
+        }
+      },
+      "Date/1.0.0": {
+        "runtime": {
+          "Date.dll": {}
+        }
+      },
+      "File/1.0.0": {
+        "dependencies": {
+          "Config": "1.0.0",
+          "Date": "1.0.0",
+          "Microsoft.Office.Interop.Excel": "15.0.4795.1001",
+          "MicrosoftOfficeCore": "15.0.0"
+        },
+        "runtime": {
+          "File.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Downtime_and_service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cuvqi/U5MYSM0gvR2l90q0m/urRgmg69EiwP5VWp1RcaJ0YT5G26Va5LaOZ3KJFc22FNihS5CUjeePUp2YpGQA==",
+      "path": "microsoft.office.interop.excel/15.0.4795.1001",
+      "hashPath": "microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+    },
+    "MicrosoftOfficeCore/15.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/KgYw8uvv0Ut8FPvyEa1XJ/TrLSRgvTv3JgC2IT0/8NwoICzbEJWfmfwsE6Dwi8WH0jVkTEO7zRvGvaKqUOhqQ==",
+      "path": "microsoftofficecore/15.0.0",
+      "hashPath": "microsoftofficecore.15.0.0.nupkg.sha512"
+    },
+    "Config/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Date/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

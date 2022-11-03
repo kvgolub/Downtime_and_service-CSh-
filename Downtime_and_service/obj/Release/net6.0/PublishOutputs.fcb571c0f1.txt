@@ -1,0 +1,5 @@
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\bin\Release\net6.0\publish\Downtime_and_service.exe
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\bin\Release\net6.0\publish\Downtime_and_service.dll
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\bin\Release\net6.0\publish\Downtime_and_service.deps.json
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\bin\Release\net6.0\publish\Downtime_and_service.runtimeconfig.json
+D:\ScriptWork\2.ConsoleCLI_Csh\Downtime_and_service\Downtime_and_service\bin\Release\net6.0\publish\Downtime_and_service.pdb

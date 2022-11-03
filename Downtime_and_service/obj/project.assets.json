@@ -1,0 +1,201 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.Excel.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.Excel.dll": {}
+        }
+      },
+      "MicrosoftOfficeCore/15.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net35/Office.dll": {}
+        },
+        "runtime": {
+          "lib/net35/Office.dll": {}
+        }
+      },
+      "Config/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Config.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Config.dll": {}
+        }
+      },
+      "Date/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Date.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Date.dll": {}
+        }
+      },
+      "File/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Config": "1.0.0",
+          "Date": "1.0.0",
+          "Microsoft.Office.Interop.Excel": "15.0.4795.1001",
+          "MicrosoftOfficeCore": "15.0.0"
+        },
+        "compile": {
+          "bin/placeholder/File.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/File.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+      "sha512": "cuvqi/U5MYSM0gvR2l90q0m/urRgmg69EiwP5VWp1RcaJ0YT5G26Va5LaOZ3KJFc22FNihS5CUjeePUp2YpGQA==",
+      "type": "package",
+      "path": "microsoft.office.interop.excel/15.0.4795.1001",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.Office.Interop.Excel.dll",
+        "lib/netstandard2.0/Microsoft.Office.Interop.Excel.dll",
+        "microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+        "microsoft.office.interop.excel.nuspec"
+      ]
+    },
+    "MicrosoftOfficeCore/15.0.0": {
+      "sha512": "/KgYw8uvv0Ut8FPvyEa1XJ/TrLSRgvTv3JgC2IT0/8NwoICzbEJWfmfwsE6Dwi8WH0jVkTEO7zRvGvaKqUOhqQ==",
+      "type": "package",
+      "path": "microsoftofficecore/15.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Office.dll",
+        "microsoftofficecore.15.0.0.nupkg.sha512",
+        "microsoftofficecore.nuspec"
+      ]
+    },
+    "Config/1.0.0": {
+      "type": "project",
+      "path": "../Config/Config.csproj",
+      "msbuildProject": "../Config/Config.csproj"
+    },
+    "Date/1.0.0": {
+      "type": "project",
+      "path": "../Date/Date.csproj",
+      "msbuildProject": "../Date/Date.csproj"
+    },
+    "File/1.0.0": {
+      "type": "project",
+      "path": "../File/File.csproj",
+      "msbuildProject": "../File/File.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Config >= 1.0.0",
+      "Date >= 1.0.0",
+      "File >= 1.0.0",
+      "Microsoft.Office.Interop.Excel >= 15.0.4795.1001",
+      "MicrosoftOfficeCore >= 15.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\St_Analitik\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\IT\\Development\\GitHub\\kosskey\\Downtime_and_service-Csh-\\Downtime_and_service\\Downtime_and_service.csproj",
+      "projectName": "Downtime_and_service",
+      "projectPath": "D:\\IT\\Development\\GitHub\\kosskey\\Downtime_and_service-Csh-\\Downtime_and_service\\Downtime_and_service.csproj",
+      "packagesPath": "C:\\Users\\St_Analitik\\.nuget\\packages\\",
+      "outputPath": "D:\\IT\\Development\\GitHub\\kosskey\\Downtime_and_service-Csh-\\Downtime_and_service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\St_Analitik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\IT\\Development\\GitHub\\kosskey\\Downtime_and_service-Csh-\\Config\\Config.csproj": {
+              "projectPath": "D:\\IT\\Development\\GitHub\\kosskey\\Downtime_and_service-Csh-\\Config\\Config.csproj"
+            },
+            "D:\\IT\\Development\\GitHub\\kosskey\\Downtime_and_service-Csh-\\Date\\Date.csproj": {
+              "projectPath": "D:\\IT\\Development\\GitHub\\kosskey\\Downtime_and_service-Csh-\\Date\\Date.csproj"
+            },
+            "D:\\IT\\Development\\GitHub\\kosskey\\Downtime_and_service-Csh-\\File\\File.csproj": {
+              "projectPath": "D:\\IT\\Development\\GitHub\\kosskey\\Downtime_and_service-Csh-\\File\\File.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.Office.Interop.Excel": {
+            "target": "Package",
+            "version": "[15.0.4795.1001, )"
+          },
+          "MicrosoftOfficeCore": {
+            "target": "Package",
+            "version": "[15.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "D:\\IT\\Development\\Stack\\NET\\dotnet-sdk-6.0.402-win-x64\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"MicrosoftOfficeCore 15.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "MicrosoftOfficeCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

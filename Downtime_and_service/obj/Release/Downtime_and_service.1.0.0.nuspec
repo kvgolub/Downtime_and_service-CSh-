@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Downtime_and_service</id>
+    <version>1.0.0</version>
+    <authors>Downtime_and_service</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Release\net6.0\Downtime_and_service.runtimeconfig.json" target="lib\net6.0\Downtime_and_service.runtimeconfig.json" />
+    <file src="D:\ScriptWork\Downtime_and_service\Program Csh\Program(v0.1)\Downtime_and_service\bin\Release\net6.0\Downtime_and_service.dll" target="lib\net6.0\Downtime_and_service.dll" />
+  </files>
+</package>

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRJxy0WUCt9TNyHVFqxrKVepITkyV/8ovk0vfhqX18VyRNVtv4HqPoELUSoPCQiBS/z5BcMydpke1odnwvzOEA==",
+  "success": true,
+  "projectFilePath": "D:\\IT\\Development\\GitHub\\kosskey\\Downtime_and_service-Csh-\\Downtime_and_service\\Downtime_and_service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\St_Analitik\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\St_Analitik\\.nuget\\packages\\microsoftofficecore\\15.0.0\\microsoftofficecore.15.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"MicrosoftOfficeCore 15.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "MicrosoftOfficeCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

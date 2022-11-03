@@ -1,0 +1,5 @@
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\bin\Release\net6.0\publish\Downtime_and_service.exe
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\bin\Release\net6.0\publish\Downtime_and_service.dll
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\bin\Release\net6.0\publish\Downtime_and_service.deps.json
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\bin\Release\net6.0\publish\Downtime_and_service.runtimeconfig.json
+D:\ScriptWork\Downtime_and_service\Program Cs\Program(v1.0)\Downtime_and_service\bin\Release\net6.0\publish\Downtime_and_service.pdb
