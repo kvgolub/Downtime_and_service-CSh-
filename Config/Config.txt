@@ -1,0 +1,22 @@
+[DATE]
+date_current_report=08.09.2022
+date_previous_report=07.09.2022
+
+[DIRECTORY]
+path_directory=Работа\2. Отчеты\1. Ежедневный\4. Простои и сервис\
+
+[FOLDER]
+folder=Исходники из 1С_
+
+[FILE_IN_FOLDER]
+ExcelWorkBook_operators_CA=1.1. Операторы (1С, Все ТА)
+ExcelWorkBook_operators_CC=1.2. Операторы (1С, КУ)
+ExcelWorkBook_technician=2. Техники (1С)
+ExcelWorkBook_revenue=3. % потерянной выручки (1С)
+ExcelWorkBook_amount=4. Кол-во ТА (1С)
+ExcelWorkBook_not_connection=5. ТА без связи (Вин)
+ExcelWorkBook_not_work=6. Простои (Вин)
+
+[FILE_NOT_FOLDER]
+ExcelWorkBook_report=Отчет по простоям и сервису_
+ExcelWorkBook_rating=!!! Рейтинги_

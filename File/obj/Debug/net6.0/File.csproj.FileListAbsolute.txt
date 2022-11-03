@@ -1,0 +1,17 @@
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\bin\Debug\net6.0\File.deps.json
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\bin\Debug\net6.0\File.dll
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\bin\Debug\net6.0\File.pdb
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\bin\Debug\net6.0\Config.dll
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\bin\Debug\net6.0\Date.dll
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\bin\Debug\net6.0\Config.pdb
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\bin\Debug\net6.0\Date.pdb
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\obj\Debug\net6.0\File.csproj.AssemblyReference.cache
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\obj\Debug\net6.0\File.GeneratedMSBuildEditorConfig.editorconfig
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\obj\Debug\net6.0\File.AssemblyInfoInputs.cache
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\obj\Debug\net6.0\File.AssemblyInfo.cs
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\obj\Debug\net6.0\File.csproj.CoreCompileInputs.cache
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\obj\Debug\net6.0\File.csproj.CopyComplete
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\obj\Debug\net6.0\File.dll
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\obj\Debug\net6.0\refint\File.dll
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\obj\Debug\net6.0\File.pdb
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\File\obj\Debug\net6.0\ref\File.dll

@@ -1,0 +1,12 @@
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\bin\Debug\net6.0\Config.deps.json
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\bin\Debug\net6.0\Config.dll
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\bin\Debug\net6.0\Config.pdb
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\obj\Debug\net6.0\Config.csproj.AssemblyReference.cache
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\obj\Debug\net6.0\Config.GeneratedMSBuildEditorConfig.editorconfig
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\obj\Debug\net6.0\Config.AssemblyInfoInputs.cache
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\obj\Debug\net6.0\Config.AssemblyInfo.cs
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\obj\Debug\net6.0\Config.csproj.CoreCompileInputs.cache
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\obj\Debug\net6.0\Config.dll
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\obj\Debug\net6.0\refint\Config.dll
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\obj\Debug\net6.0\Config.pdb
+F:\Костя\IT\Development\GitHub\kosskey\Downtime_and_service-Csh-\Config\obj\Debug\net6.0\ref\Config.dll
